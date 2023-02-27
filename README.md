@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=iamrishan&icon=5&color=12)](https://visitcount.itsvg.in)
 
-#$ 💻 About Me:
+### 💻 About Me:
 ** i'm currently learning flutter
 
 
