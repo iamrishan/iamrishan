@@ -1,8 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=iamrishan&icon=5&color=12)](https://visitcount.itsvg.in)
 
-### 💻 About Me:
-** i'm currently learning flutter
-
+### About Me:
+- I make mobile applications
+- Currently learning flutter
+- Agency [!DudzApps.com](https://buymeacoffee.com/dudzapps) 
+- 
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudzapps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrishan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20548889) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dudzapps) 
