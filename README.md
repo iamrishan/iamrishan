@@ -1,5 +1,5 @@
-### About Me:
-Mobile Dev ⚡ | Flutter ❤ | CEO @ [DudzApps.com](https://dudzapps.iamrishan.com/)
+# About Me:
+Developer | Flutter ❤ | CEO @ [DudzApps.com](https://dudzapps.iamrishan.com/)
 
 [![daily-price-check](https://github.com/iamrishan/test-cron/actions/workflows/dailypricecheck.yml/badge.svg)](https://github.com/iamrishan/test-cron/actions/workflows/dailypricecheck.yml)
 
