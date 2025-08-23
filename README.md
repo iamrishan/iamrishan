@@ -1,4 +1,4 @@
-#About Me
+# About Me
 ---
 
 I’m a developer who loves building **scalable SaaS products** and leading small teams. Currently working with **Next.js, Supabase and modern UI frameworks** like TailwindCSS + Shadcn.  
